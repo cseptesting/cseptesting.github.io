@@ -13,7 +13,7 @@ This database represents one of CSEP’s most extensive efforts to date, with al
 
 All forecasts are now openly available on [Zenodo][zenodo-link] and through the [CSEP website][csep-testing-website]. In addition, we provide on [GitHub code and a tutorial][github-code-tutorial] to load, visualize, combine, and evaluate the forecasts in the database, along with guidance for creating new forecasts in a format suitable for comparison.
 
-[Read the article: A benchmark database of then years of prospective next-day earthquake forecasts in California][paper-link]
+Read the article: [A benchmark database of then years of prospective next-day earthquake forecasts in California][paper-link]
 
 Explore the database: [download from Zenodo][zenodo-database-link]
 
