@@ -1,0 +1,140 @@
+# _data/people.yml
+- name: "Khawaja Muhammad Asim"
+  role: "PhD Student - GFZ Potsdam"
+  image: "/assets/images/people/asim_photo.jpg"
+  contact: "khawaja@gfz-potsdam.de"
+
+- name: "Han Bao"
+  role: "PhD Student - University of California, Los Angeles"
+  image: "/assets/images/people/HanBao.jpeg"
+  contact: "hbrandon@ucla.edu"
+
+- name: "Kirsty Bayliss, Ph.D."
+  role: "Postdoctoral Research Associate - University of Edinburgh, UK"
+  image: "/assets/images/people/Kirsty_photo-1.jpg"
+  contact: "Kirsty.Bayliss@ed.ac.uk"
+
+- name: "Toño Bayona, Ph.D."
+  role: "Leverhulme Early Career Fellow - University of Bristol"
+  image: "/assets/images/people/Jose_Bayona.jpg"
+  contact: "jose.bayona@bristol.ac.uk"
+
+- name: "Emanuele Biondini, Ph.D."
+  role: "Research Fellow - Department of Physics and Astronomy, Geophysics Section - University of Bologna"
+  image: "/assets/images/people/Emanuele_Biondini.jpg"
+  contact: "emanuele.biondini2@unibo.it"
+
+- name: "Zijian Cui, Ph.D."
+  role: "Academic Visitor - University of Bristol, Associate Research Fellow - Institute of Earthquake Forecasting, CEA"
+  image: "/assets/images/people/Zijian_Cui.png"
+  contact: "zijian.cui@bristol.ac.uk"
+
+- name: "Kenny Graham, Ph.D."
+  role: "Geophysical Statistician - GNS Science"
+  image: "/assets/images/people/Kenny_Graham.png"
+  contact: "k.graham@gns.cri.nz"
+
+- name: "Marcus Herrmann, Ph.D."
+  role: "Postdoctoral Scholar - University of Naples, Federico II (Italy)"
+  image: "/assets/images/people/pp_Herrmann.jpg"
+  contact: "marcus.herrmann@unina.it"
+
+- name: "Pablo Iturrieta Rebolledo"
+  role: "PhD Student - GFZ Potsdam"
+  image: "/assets/images/people/pablito.jpg"
+  contact: "pciturri@gfz-potsdam.de"
+
+- name: "David Jackson, Ph.D."
+  role: "Professor Emeritus - University of California, Los Angeles"
+  image: "/assets/images/people/David_Jackson.jpg"
+  contact: "djackson@ucla.edu"
+
+- name: "Thomas Jordan, Ph.D."
+  role: "W. M. Keck Foundation Professor of Earth Sciences - University of Southern California"
+  image: "/assets/images/people/jordan-picture-319-1535405280.jpg"
+  contact: "tjordan@usc.edu"
+
+- name: "Yue Liu, Ph.D."
+  role: "Associate Research Fellow - Institute of Earthquake Forecasting, CEA"
+  image: "/assets/images/people/Yue_Liu.png"
+  contact: "liuyue126liuyue@126.com"
+
+- name: "Philip J. Maechling"
+  role: "Associate Director for Information Technology - Statewide California Earthquake Center"
+  image: "/assets/images/people/pjm-picture-2192.jpg"
+  contact: "maechlin@usc.edu"
+
+- name: "Simone Mancini, Ph.D."
+  role: "Postdoctoral Researcher - University of Naples, Federico II (Italy)"
+  image: "/assets/images/people/simone-mancini-photo_001.jpg"
+  contact: "simone.mancini2@unina.it"
+
+- name: "Warner Marzocchi, Ph.D."
+  role: "Professor - University of Naples, Federico II (Italy)"
+  image: "/assets/images/people/warner_marzocchi.jpg"
+  contact: "warner.marzocchi@unina.it"
+
+- name: "Andy Michael, Ph.D."
+  role: "Research Geophysicist - U.S. Geological Survey"
+  image: "/assets/images/people/ajm-headshot-sept-2021-square.jpg"
+  contact: "ajmichael@usgs.gov"
+
+- name: "David Rhoades, Ph.D."
+  role: "Geophysical Statistician - GNS Science"
+  image: "/assets/images/people/david-rhodes-image.jpg"
+  contact: "d.rhoades@gns.cri.nz"
+
+- name: "William H. Savran, Ph.D."
+  role: "CSEP Researcher - University of Southern California"
+  image: "/assets/images/people/savran_picture-24016-1516207310.jpg"
+  contact: "wsavran@usc.edu"
+
+- name: "Max Schneider"
+  role: "Researcher Statistician - U.S. Geological Survey"
+  image: "/assets/images/people/Max_Schneider.jpg"
+  contact: "mschneider@usgs.gov"
+
+- name: "Danijel Schorlemmer, Ph.D."
+  role: "Scientist - Seismic Hazard and Risk Dynamics - GFZ Potsdam"
+  image: "/assets/images/people/danijel.jpg"
+  contact: "danijel.schorlemmer@gfz-potsdam.de"
+
+- name: "Margarita Segou, Ph.D."
+  role: "Earthquake Seismologist - British Geologist Survey"
+  image: "/assets/images/people/Francesco_Serafini-IMG-2700-2-1024x769.jp"
+  contact: "msegou@bgs.ac.uk"
+
+- name: "Francesco Serafini"
+  role: "Senior Research Associate - University of Bristol"
+  image: "/assets/images/people/IMG_20200727_194205.jpg"
+  contact: "francesco.serafini@bristol.ac.uk"
+
+- name: "Fabio Silva"
+  role: "Computer Scientist - University of Southern California"
+  image: "/assets/images/people/photo_fabio_small2.png"
+  contact: "fsilva@usc.edu"
+
+- name: "Matteo Taroni"
+  role: "Researcher Seismologist - INGV, Rome, Italy"
+  image: "/assets/images/people/Photo_Taroni_CSEP.jpg"
+  contact: "matteo.taroni@ingv.it"
+
+- name: "Maximilian J. Werner, Ph.D."
+  role: "Associate Professor of Geophysics and Natural Hazards - University of Bristol"
+  image: "/assets/images/people/Max_Werner_ProfilePicture-1.jpg"
+  contact: "max.werner@bristol.ac.uk"
+
+- name: "Chen Yu"
+  role: "Engineer - China Earthquake Networks Center"
+  image: "/assets/images/people/Chen_Yu.png"
+  contact: "yuchen@seis.ac.cn"
+
+- name: "Shengfeng Zhang, Ph.D."
+  role: "Associate Research Fellow - Institute of Earthquake Forecasting, CEA"
+  image: "/assets/images/people/Shengfeng_Zhang.png"
+  contact: "zsf@@ief.ac.cn"
+
+- name: "Yongxian Zhang, Ph.D."
+  role: "Research Fellow - Institute of Earthquake Forecasting, CEA"
+  image: "/assets/images/people/Yongxian_Zhang.png"
+  contact: "yxzhseis@sina.com"
