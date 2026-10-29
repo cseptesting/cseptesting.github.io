@@ -1,0 +1,24 @@
+# _data/models.yml
+- model_name: "ETAS"
+  starting_date: "2007-08-01"
+  end_date: "2018-08-31"
+  missing_days: 0
+  min_magnitude: 3.95
+  file_dimension: "5.8 GB"
+  links:
+    - text: "Description"
+      url: "pages/etas-models.markdown"
+    - text: "Download"
+      url: "https://g-3a9041.a78b8.36fe.data.globus.org/csep/csep1/files/one_day_models/ETAS_1day.hdf5"
+
+- model_name: "STEP"
+  starting_date: "2007-08-01"
+  end_date: "2013-01-21"
+  missing_days: 0
+  min_magnitude: 3.95
+  file_dimension: "1.78 GB"
+  links:
+    - text: "Description"
+      url: "pages/step-and-stepjava-models.markdown"
+    - text: "Download"
+      url: "https://g-3a9041.a78b8.36fe.data.globus.org/csep/csep1/files/one_day_models/STEP_1day.hdf5"
