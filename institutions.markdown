@@ -4,8 +4,6 @@ title: Institutions
 permalink: /institutions/
 ---
 
-Institutions
-
 - British Geological Survey (BGS) (UK)
 - China Earthquake Networks Center (China)
 - Earthquake Research Institute (ERI), University of Tokyo (Japan)
