@@ -7,7 +7,8 @@
   file_dimension: "5.8 GB"
   links:
     - text: "Description"
-      url: "pages/etas-models.markdown"
+      markdown_path: "pages/etas-models.markdown"
+      type: "internal"
     - text: "Download"
       url: "https://g-3a9041.a78b8.36fe.data.globus.org/csep/csep1/files/one_day_models/ETAS_1day.hdf5"
 
@@ -19,6 +20,7 @@
   file_dimension: "1.78 GB"
   links:
     - text: "Description"
-      url: "pages/step-and-stepjava-models.markdown"
+      markdown_path: "pages/step-and-stepjava-models.markdown"
+      type: "internal"
     - text: "Download"
       url: "https://g-3a9041.a78b8.36fe.data.globus.org/csep/csep1/files/one_day_models/STEP_1day.hdf5"

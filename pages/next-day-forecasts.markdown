@@ -16,7 +16,7 @@ The forecasts are provided as a .hdf5 file storing a system of nested folders. T
 
 The code to evaluate the forecasts against observed data, and the tutorial showing how to use the code, can be found [here](https://github.com/Serra314/CSEP-Next-day-gridded-forecast-database-for-California-code-and-tutorial/tree/main).
 
-List of Models
+# List of Models
 
 To download the model, the user can download the models of interest using the Download links in the table below, or visit the download page with all the models at the following [link](https://g-3a9041.a78b8.36fe.data.globus.org/csep/csep1/files/index.html). Specific information on each model can be found following the Description links in the table.
 
