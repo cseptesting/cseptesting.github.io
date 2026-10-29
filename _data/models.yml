@@ -20,7 +20,7 @@
   file_dimension: "1.78 GB"
   links:
     - text: "Description"
-      url: "pages/step-and-stepjava-models"
+      url: "/step-and-stepjava-models/"
       type: "internal"
     - text: "Download"
       url: "https://g-3a9041.a78b8.36fe.data.globus.org/csep/csep1/files/one_day_models/STEP_1day.hdf5"
