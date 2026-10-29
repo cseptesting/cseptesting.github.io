@@ -43,7 +43,21 @@ To download the model, the user can download the models of interest using the Do
         <td>{{ item.file_dimension }}</td>
         <td>
           {% for link in item.links %}
-            <a href="{{ link.url }}" class="table-link">{{ link.text }}</a>{% unless forloop.last %}, {% endunless %}
+          {% if link.type == "internal" %}
+              {% comment %} 
+                1. Capture the exact tag syntax string dynamically
+              {% endcomment %}
+              {% capture internal_link_tag %}{% link {{ link.markdown_path }} %}{% endcapture %}
+              
+              <a href="{{ internal_link_tag | relative_url }}" class="table-link">
+                {{ link.text }}
+              </a>
+            {% else %}
+              <a href="{{ link.url }}" class="table-link" target="_blank" rel="noopener">
+                {{ link.text }}
+              </a>
+            {% endif %}
+            {% unless forloop.last %}, {% endunless %}
           {% endfor %}
         </td>
       </tr>
