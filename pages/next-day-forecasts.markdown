@@ -43,13 +43,9 @@ To download the model, the user can download the models of interest using the Do
         <td>{{ item.file_dimension }}</td>
         <td>
           {% for link in item.links %}
-          {% if link.type == "internal" %}
-              {% comment %} 
-                1. Capture the exact tag syntax string dynamically
-              {% endcomment %}
-              {% capture internal_link_tag %}{% link {{ link.markdown_path }} %}{% endcapture %}
-              
-              <a href="{{ internal_link_tag | relative_url }}" class="table-link">
+            {% if link.type == "internal" %}
+              <!-- Works perfectly on GitHub Pages environment -->
+              <a href="{{ link.url | relative_url }}" class="table-link">
                 {{ link.text }}
               </a>
             {% else %}
