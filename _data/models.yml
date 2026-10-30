@@ -32,10 +32,10 @@
   min_magnitude: 3.95
   file_dimension: "2.39 GB"
   links:
-    - label: "Description"
+    - text: "Description"
       url: "/step-and-stepjava-models/"
       type: "internal"
-    - label: "Download"
+    - text: "Download"
       url: "https://g-3a9041.a78b8.36fe.data.globus.org/csep/csep1/files/one_day_models/STEPJAVA_1day.hdf5"
 
 - model_name: "KJSSOneDay"
@@ -45,10 +45,10 @@
   min_magnitude: 3.95
   file_dimension: "4.17 GB"
   links:
-    - label: "Description"
+    - text: "Description"
       url: "/kjssonedaycalifornia-and-kjssfiveyearcalifornia-models/"
       type: "internal"
-    - label: "Download"
+    - text: "Download"
       url: "https://g-3a9041.a78b8.36fe.data.globus.org/csep/csep1/files/one_day_models/KJSSOneDayCalifornia_1day.hdf5"
 
 - model_name: "KJSSFiveYears"
@@ -58,10 +58,10 @@
   min_magnitude: 4.95
   file_dimension: "2.44 GB"
   links:
-    - label: "Description"
+    - text: "Description"
       url: "/kjssonedaycalifornia-and-kjssfiveyearcalifornia-models/"
       type: "internal"
-    - label: "Download"
+    - text: "Download"
       url: "https://g-3a9041.a78b8.36fe.data.globus.org/csep/csep1/files/one_day_models/KJSSFiveYearCalifornia_1day.hdf5"
 
 - model_name: "GSF_ISO"
@@ -71,7 +71,7 @@
   min_magnitude: 3.95
   file_dimension: "726 MB"
   links:
-    - label: "Download"
+    - text: "Download"
       url: "https://g-3a9041.a78b8.36fe.data.globus.org/csep/csep1/files/one_day_models/GSF_ISO_1day.hdf5"
 
 - model_name: "GSF_ANISO"
@@ -81,7 +81,7 @@
   min_magnitude: 3.95
   file_dimension: "331 MB"
   links:
-    - label: "Download"
+    - text: "Download"
       url: "https://g-3a9041.a78b8.36fe.data.globus.org/csep/csep1/files/one_day_models/GSF_ANISO_1day.hdf5"
 
 - model_name: "K3Md3"
@@ -91,7 +91,7 @@
   min_magnitude: 3.95
   file_dimension: "2.24 GB"
   links:
-    - label: "Download"
+    - text: "Download"
       url: "https://g-3a9041.a78b8.36fe.data.globus.org/csep/csep1/files/one_day_models/K3Md3_1day.hdf5"
 
 - model_name: "ETAS_DROneDayMd3"
@@ -101,7 +101,7 @@
   min_magnitude: 3.95
   file_dimension: "2.66 GB"
   links:
-    - label: "Download"
+    - text: "Download"
       url: "https://g-3a9041.a78b8.36fe.data.globus.org/csep/csep1/files/one_day_models/ETAS_DROneDayMd3_1day.hdf5"
 
 - model_name: "ETAS_DROneDayMd2.95"
@@ -111,7 +111,7 @@
   min_magnitude: 3.95
   file_dimension: "930 MB"
   links:
-    - label: "Download"
+    - text: "Download"
       url: "https://g-3a9041.a78b8.36fe.data.globus.org/csep/csep1/files/one_day_models_V16.7/ETAS_DROneDayMd2.95_1day.hdf5"
 
 - model_name: "ETAS_DROneDayMd2"
@@ -121,7 +121,7 @@
   min_magnitude: 3.95
   file_dimension: "2.72 GB"
   links:
-    - label: "Download"
+    - text: "Download"
       url: "https://g-3a9041.a78b8.36fe.data.globus.org/csep/csep1/files/one_day_models_Md2_V12.10/ETAS_DROneDayMd2_1day.hdf5"
 
 - model_name: "ETAS_DROneDayPPEMd3"
@@ -131,7 +131,7 @@
   min_magnitude: 3.95
   file_dimension: "2.70 GB"
   links:
-    - label: "Download"
+    - text: "Download"
       url: "https://g-3a9041.a78b8.36fe.data.globus.org/csep/csep1/files/one_day_models/ETAS_DROneDayPPEMd3_1day.hdf5"
 
 - model_name: "ETAS_DROneDayPPEMd2"
@@ -141,7 +141,7 @@
   min_magnitude: 3.95
   file_dimension: "2.70 GB"
   links:
-    - label: "Download"
+    - text: "Download"
       url: "https://g-3a9041.a78b8.36fe.data.globus.org/csep/csep1/files/one_day_models_Md2_V12.10/ETAS_DROneDayPPEMd2_1day.hdf5"
 
 - model_name: "ETASSYN_DROneDayMd2.95"
@@ -151,7 +151,7 @@
   min_magnitude: 3.95
   file_dimension: "924 MB"
   links:
-    - label: "Download"
+    - text: "Download"
       url: "https://g-3a9041.a78b8.36fe.data.globus.org/csep/csep1/files/one_day_models_V16.7/ETASSYN_DROneDayMd2.95_1day.hdf5"
 
 - model_name: "ETAS_HW_K3_AVERAGE_Md3"
@@ -161,7 +161,7 @@
   min_magnitude: 3.95
   file_dimension: "2.61 GB"
   links:
-    - label: "Download"
+    - text: "Download"
       url: "https://g-3a9041.a78b8.36fe.data.globus.org/csep/csep1/files/one_day_models/ETAS_HW_K3_AVERAGE_Md3_1day.hdf5"
 
 - model_name: "ETAS_HWMd3"
@@ -171,7 +171,7 @@
   min_magnitude: 3.95
   file_dimension: "1.97 GB"
   links:
-    - label: "Download"
+    - text: "Download"
       url: "https://g-3a9041.a78b8.36fe.data.globus.org/csep/csep1/files/one_day_models/ETAS_HWMd3_1day.hdf5"
 
 - model_name: "ETASV1.1"
@@ -181,7 +181,7 @@
   min_magnitude: 3.95
   file_dimension: "3.19 GB"
   links:
-    - label: "Download"
+    - text: "Download"
       url: "https://g-3a9041.a78b8.36fe.data.globus.org/csep/csep1/files/one_day_models/ETASV1_1_1day.hdf5"
 
 - model_name: "OneDayBayesianBMA"
@@ -191,7 +191,7 @@
   min_magnitude: 3.95
   file_dimension: "2.18 GB"
   links:
-    - label: "Download"
+    - text: "Download"
       url: "https://g-3a9041.a78b8.36fe.data.globus.org/csep/csep1/files/one_day_models_Bayesian_V12.7/OneDayBayesianBMA_1day.hdf5"
 
 - model_name: "OneDayBayesianSeqBMA"
@@ -201,7 +201,7 @@
   min_magnitude: 3.95
   file_dimension: "2.18 GB"
   links:
-    - label: "Download"
+    - text: "Download"
       url: "https://g-3a9041.a78b8.36fe.data.globus.org/csep/csep1/files/one_day_models_Bayesian_V12.7/OneDayBayesianSeqBMA_1day.hdf5"
 
 - model_name: "ETAS_HW_K3_AVERAGE_Md2"
@@ -211,7 +211,7 @@
   min_magnitude: 3.95
   file_dimension: "1.81 GB"
   links:
-    - label: "Download"
+    - text: "Download"
       url: "https://g-3a9041.a78b8.36fe.data.globus.org/csep/csep1/files/one_day_models_Md2_V12.10/ETAS_HW_K3_AVERAGE_Md2_1day.hdf5"
 
 - model_name: "ETAS_HWMd2"
@@ -221,7 +221,7 @@
   min_magnitude: 3.95
   file_dimension: "1.36 GB"
   links:
-    - label: "Download"
+    - text: "Download"
       url: "https://g-3a9041.a78b8.36fe.data.globus.org/csep/csep1/files/one_day_models_Md2_V12.10/ETAS_HWMd2_1day.hdf5"
 
 - model_name: "JANUSOneDay"
@@ -231,7 +231,7 @@
   min_magnitude: 3.95
   file_dimension: "2.50 GB"
   links:
-    - label: "Download"
+    - text: "Download"
       url: "https://g-3a9041.a78b8.36fe.data.globus.org/csep/csep1/files/one_day_models_Md2_V12.10/JANUSOneDay_1day.hdf5"
 
 - model_name: "JANUSOneDayEEPAS1F"
@@ -241,7 +241,7 @@
   min_magnitude: 3.95
   file_dimension: "2.45 GB"
   links:
-    - label: "Download"
+    - text: "Download"
       url: "https://g-3a9041.a78b8.36fe.data.globus.org/csep/csep1/files/one_day_models_Md2_V12.10/JANUSOneDayEEPAS1F_1day.hdf5"
 
 - model_name: "JANUSOneDayPPE"
@@ -251,7 +251,7 @@
   min_magnitude: 3.95
   file_dimension: "2.23 GB"
   links:
-    - label: "Download"
+    - text: "Download"
       url: "https://g-3a9041.a78b8.36fe.data.globus.org/csep/csep1/files/one_day_models_Md2_V12.10/JANUSOneDayPPE_1day.hdf5"
 
 - model_name: "JANUSOneDayTV"
@@ -261,7 +261,7 @@
   min_magnitude: 3.95
   file_dimension: "982 MB"
   links:
-    - label: "Download"
+    - text: "Download"
       url: "https://g-3a9041.a78b8.36fe.data.globus.org/csep/csep1/files/one_day_models_Md2_V12.10/JANUSOneDayTV_1day.hdf5"
 
 - model_name: "K3Md2"
@@ -271,7 +271,7 @@
   min_magnitude: 3.95
   file_dimension: "1.55 GB"
   links:
-    - label: "Download"
+    - text: "Download"
       url: "https://g-3a9041.a78b8.36fe.data.globus.org/csep/csep1/files/one_day_models_Md2_V12.10/K3Md2_1day.hdf5"
 
 - model_name: "SE2OneDay"
@@ -281,5 +281,5 @@
   min_magnitude: 3.95
   file_dimension: "1.68 GB"
   links:
-    - label: "Download"
+    - text: "Download"
       url: "https://g-3a9041.a78b8.36fe.data.globus.org/csep/csep1/files/one_day_models_Md2_V12.10/SE2OneDay_1day.hdf5"
