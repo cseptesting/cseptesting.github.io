@@ -30,8 +30,6 @@ permalink: /publications/
 
 * Khawaja, A. M., Hainzl, S., Schorlemmer, D., Iturrieta, P., Bayona, J. A., Savran, W. H., Werner, M. J. & Marzocchi, W. (2023). Statistical power of spatial earthquake forecast tests. <em>Geophysical Journal International</em>, 233(3), 2053-2066. [https://doi.org/10.1093/gji/ggad030](https://doi.org/10.1093/gji/ggad030)
 
-# MORE
-
 * Herrmann, M. and Marzocchi, W. (2023). Maximizing the forecasting skill of an ensemble model. <em>Geophysical Journal International, 234</em>(1), 73–87. [https://doi.org/10.1093/gji/ggad020](https://doi.org/10.1093/gji/ggad020)
 
 # 2022
