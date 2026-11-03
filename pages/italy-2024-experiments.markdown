@@ -20,10 +20,24 @@ This new Italy Forecasting Experiment has few important new features. The foreca
 
 # Experiment Description, Documents and Materials
 
+- [Modeler's Instructive](https://git.gfz-potsdam.de/csep/it_experiment/setup/-/raw/main/Modeler_Instructive.pdf){:target="_blank"}
+
+- [Supplementary Material](https://git.gfz-potsdam.de/csep/it_experiment/setup/-/raw/main/Supplementary_Material.pdf){:target="_blank"}
+
+- [Official GIT Repository](https://git.gfz-potsdam.de/csep/it_experiment/setup){:target="_blank"}
+
 # Model Submission
 
 A forecasting model should be submitted as a repository of source code files. Before model submission, each modeler should download and/or review the following items from the experiment's repository, and follow the instructions of the Modeler's Instructive:
 
+- [Italy Region](https://git.gfz-potsdam.de/csep/it_experiment/setup/-/tree/main/regions){:target="_blank"}
 
+- [Input Catalogs](https://git.gfz-potsdam.de/csep/it_experiment/setup/-/tree/main/catalogs?ref_type=heads){:target="_blank"}
+
+- [Model Template](https://git.gfz-potsdam.de/csep/it_experiment/models/template){:target="_blank"}
+
+- [Model Example (Python)](https://git.gfz-potsdam.de/csep/it_experiment/models/pymock){:target="_blank"}
+
+- [Model Example (R)](https://git.gfz-potsdam.de/csep/it_experiment/models/Rmock){:target="_blank"}
 
 To initiate the submission and participation, please contact pciturri@gfz.de
