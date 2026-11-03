@@ -1,0 +1,67 @@
+---
+# Front matter dashes tell Jekyll to process Sass. Do not remove them!
+---
+
+// 1. Tell Jekyll to import Minima's default styles first
+@import "minima";
+
+// 2. Paste your custom nested menu dropdown styles below
+.main-menu {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+}
+
+.menu-item {
+  position: relative; 
+  margin-right: 15px;
+
+  // Style the main navigation links to match Minima's look
+  .page-link {
+    color: #111;
+    text-decoration: none;
+    padding: 8px 10px;
+    display: inline-block;
+  }
+}
+
+/* Hide dropdown menu by default */
+.dropdown-menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: #ffffff;
+  border: 1px solid #e8e8e8;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  list-style: none;
+  padding: 5px 0;
+  min-width: 160px;
+  z-index: 1000;
+  border-radius: 4px;
+
+  li {
+    margin: 0;
+    width: 100%;
+
+    a {
+      display: block;
+      padding: 8px 15px;
+      color: #333;
+      font-size: 14px;
+      text-decoration: none;
+      white-space: nowrap;
+
+      &:hover {
+        background-color: #f5f5f5;
+        color: #000;
+      }
+    }
+  }
+}
+
+/* Show dropdown menu on hover */
+.menu-item:hover .dropdown-menu {
+  display: block;
+}

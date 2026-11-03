@@ -1,0 +1,28 @@
+# _data/navigation.yml
+- title: Home
+  url: /
+- title: Software
+  url: /
+  subitems:
+    - title: pyCSEP
+      url: https://docs.cseptesting.org/
+    - title: floatCSEP
+      url: https://floatcsep.readthedocs.io/en/latest/
+- title: Experiments
+  url: /
+  subitems:
+    - title: Italy 2024 Forecasting Experiment
+      url: /
+- title: Forecasts
+  url: /
+  subitems:
+    - title: Next-day Gridded Forecasts
+      url: /california-forecasts/
+- title: People
+  url: /people/
+- title: Institutions
+  url: /institutions/
+- title: Funding
+  url: /funding/
+- title: Publications
+  url: /publications/

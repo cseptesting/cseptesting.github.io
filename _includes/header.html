@@ -1,0 +1,27 @@
+<header class="site-header">
+  <div class="wrapper">
+    <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
+    <nav class="site-nav">
+      <div class="trigger">
+        <ul class="main-menu">
+          {% for item in site.data.navigation %}
+            <li class="menu-item {% if item.subitems %}has-children{% endif %}">
+              <a class="page-link" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+              
+              <!-- Check for nested subitems -->
+              {% if item.subitems %}
+                <ul class="dropdown-menu">
+                  {% for subitem in item.subitems %}
+                    <li>
+                      <a class="page-link" href="{{ subitem.url | relative_url }}">{{ subitem.title }}</a>
+                    </li>
+                  {% endfor %}
+                </ul>
+              {% endif %}
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </nav>
+  </div>
+</header>

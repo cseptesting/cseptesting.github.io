@@ -10,7 +10,7 @@ Both rely on the following conditional intensity's formulation:
 
 $latex \lambda(t, x, y, m \vert \mathcal H_t) = \pi(m) \left( \mu(x,y) + \sum_{(t_h, x_h, y_h, m_h) \in \mathcal H_t} k(m_h) g(t - t_h) f(x-x_h, y-y_h, m_h) \right)$
 
-The parameters $latex mu, alpha, K, c, p, a, b$ of the ETAS model were calibrated with more than 4,700 earthquakes with magnitude greater or equal to 3.95 and less or equal to 6.0, reported by the ANSS catalog from January 1, 1898 to January 1, 1985. This parameters were used to produce daily (from 00:00:01 to 23:59:59) grid-based forecasts for events with magnitude above 3.95 occurring in California.
+The parameters mu, alpha, K, c, p, a, b of the ETAS model were calibrated with more than 4,700 earthquakes with magnitude greater or equal to 3.95 and less or equal to 6.0, reported by the ANSS catalog from January 1, 1898 to January 1, 1985. This parameters were used to produce daily (from 00:00:01 to 23:59:59) grid-based forecasts for events with magnitude above 3.95 occurring in California.
 
 # Downloads
 
