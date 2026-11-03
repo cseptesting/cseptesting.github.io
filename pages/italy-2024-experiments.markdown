@@ -6,10 +6,13 @@ permalink: /italy-2024-forecasting-experiment/
 
 # Preface
 
-![Italy map]({{"/assets/images/italy_map-1.png" | relative_url }}){: width="300" }
+![Italy map]({{"/assets/images/italy_map-1.png" | relative_url }}){: style="float: left; margin-right: 15px;" width="300" }
 
 "Experiments are the only means of knowledge at our disposal. The rest is poetry, imagination"
+
 Max Planck
+
+<br style="clear: both;" />
 
 In open systems, such as the natural systems, the definition of “experiment” is more challenging than in one laboratory where all factors are under control, but it maintains its unique status in the general scientific enterprise. The Collaboratory for the Study of Earthquake Predictability (CSEP) has been always aiming at the definition of transparent and reproducible experiments to evaluate and compare earthquake forecasting models. The transparency and reproducibility are the two founding pillars of CSEP experiments, which allow any scientist to carry out any kind of statistical tests, at any time. This new short-term forecasting experiment in the Italian region follows the first round of experiments (Marzocchi et al., 2010), whose results have been analyzed by Taroni et al (2018) and Herrmann et al (2023).
 
@@ -17,3 +20,10 @@ This new Italy Forecasting Experiment has few important new features. The foreca
 
 # Experiment Description, Documents and Materials
 
+# Model Submission
+
+A forecasting model should be submitted as a repository of source code files. Before model submission, each modeler should download and/or review the following items from the experiment's repository, and follow the instructions of the Modeler's Instructive:
+
+
+
+To initiate the submission and participation, please contact pciturri@gfz.de
