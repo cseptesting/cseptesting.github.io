@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: CSEP Testing
+title: Collaboratory for the Study of Earthquake Predictability (CSEP)
 email: scec-software@usc.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Collaboratory for the Study of Earthquake Predictability (CSEP)
